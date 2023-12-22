@@ -18,7 +18,7 @@ A plataforma faz a coleta dos dados contidos no site de vagas de emprego Radarte
 [![MongoDB][mongodb.com]][MongoDB-url]
 [![Express][express.com]][Express-url]
 [![Html][Html.org]][Html-url]
-[![sass][sasss.com]][sass-url]
+[![sass][sass.com]][sass-url]
 [![jquery][jquery.com]][jquery-url]
 [![bootstrap][bootstrap.com]][bootstrap-url]
 
